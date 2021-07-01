@@ -104,7 +104,7 @@ Response 标签页展示了响应数据，这是一个常规的 html 页面。 <
 
 <!-- Because of the img tag, the browser does a second <i>HTTP-request</i> to fetch the image <i>kuva.png</i> from the server. The details of the request are as follows: -->
 
-由于有一个 img 标签，浏览器会执行第二个 http 请求，从服务器获取图像 kuba.png。 请求的详情如下:
+由于有一个 img 标签，浏览器会执行第二个 http 请求，从服务器获取图像 kuva.png。 请求的详情如下:
 
 ![](../../images/0/6e.png)
 
